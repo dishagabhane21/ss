@@ -1,2 +1,2 @@
-# ss
-three sort
+# Diffrent Simple Sort
+Three sort
